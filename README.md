@@ -5,8 +5,7 @@
 
 ## About Me: 
 
-- 💻  I'm a self-taught passionate Software Developer.
-- ❤ I am a Math and Coding lover!
+- ❤ 💻  I'm a self-taught passionate Software Developer, who is a Math and Coding lover!
 
 ##  My Linkedin:
 
@@ -19,6 +18,3 @@
 ## Contact:
 
 📫 Contact: APersianGeek@Gmail.com
-
-
-
