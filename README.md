@@ -1,13 +1,13 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+;I'm+Amir!;&center=true&font=Vazirmatn&weight=900&duration=3000&pause=1000&height=50&width=600&color=E32934&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+and+Welcome,+There!+;I'm+Amir!;&center=true&font=Vazirmatn&weight=900&duration=3000&pause=1000&height=50&width=600&color=E32934&size=30">
 </h1>
 
 ## About Me: 
 
 - ❤ 💻  I'm a self-taught passionate Software Developer, who is a Math and Coding lover!
 
-##  My Linkedin:
+##  Linkedin:
 
 <div>    
   <a href="https://www.linkedin.com/in/acomputergeek/">
@@ -17,4 +17,4 @@
  
 ## Contact:
 
-📫 Contact: APersianGeek@Gmail.com
+📫 APersianGeek@Gmail.com
