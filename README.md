@@ -5,7 +5,7 @@
 
 ## About Me: 
 
-- ❤ 💻  I'm Amir! A self-taught passionate Software Developer, who loves Math and Coding!
+- ❤ 💻  I'm Amir! A self-taught passionate Software Developer, who loves Math, Coding, and Literature!
 
 ##  Linkedin:
 
