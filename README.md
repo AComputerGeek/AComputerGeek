@@ -7,14 +7,6 @@
 
 - ❤ 💻  I'm Amir! A self-taught passionate Software/Web Developer, who loves Math, Coding, and Literature!
 
-##  Linkedin:
-
-<div>    
-  <a href="https://www.linkedin.com/in/acomputergeek/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
- 
 ## Contact:
 
 📫 APersianGeek@Gmail.com
