@@ -1,6 +1,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+and+Welcome!;&center=true&font=Vazirmatn&weight=900&duration=3000&pause=1000&height=50&width=600&color=E32934&size=30">
 </h1>
+<h2 align="center">✨ ❤ 💻  I'm Amir! A self-taught passionate Software/Web/Mobile Developer, who loves Math, Coding, and Literature! ✨</h2>
+
 
 <h3 align="left">Contact:</h3>
 <!-- <p align="left">
