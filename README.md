@@ -2,14 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+and+Welcome!;&center=true&font=Vazirmatn&weight=900&duration=3000&pause=1000&height=50&width=600&color=E32934&size=30">
 </h1>
 
-<br />
-
 <h3 align="left">Contact:</h3>
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/acomputergeek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AComputerGeek" height="30" width="40" /></a>
 </p> -->
-
-<br />
 
 - 📧: [APersianGeek@Gmail.com](APersianGeek@Gmail.com)
 
