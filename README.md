@@ -1,10 +1,11 @@
-<h1 align="center">Hello 👋, and welcome!</h1>
+<h1 align="center">Hello, and welcome! 👋</h1>
 <h3 align="center">✨I do coding for love!✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AComputerGeek&label=Profile%20views&color=0e75b6&style=flat" alt="AComputerGeek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AComputerGeek" alt="AComputerGeek" /></a> </p>
 
+<br />
 - 📧 Email Contact: [APersianGeek@Gmail.com](APersianGeek@Gmail.com)
 
 <h3 align="left">Connect with me:</h3>
