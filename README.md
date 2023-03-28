@@ -1,5 +1,6 @@
 <h1 align="center">Hello, and welcome! 👋</h1>
-<h3 align="center">✨I do coding for love!✨</h3>
+
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AComputerGeek&label=Profile%20views&color=0e75b6&style=flat" alt="AComputerGeek" /> </p>
 
@@ -13,6 +14,8 @@
 </p>
 
 - 📧 Email Contact: [APersianGeek@Gmail.com](APersianGeek@Gmail.com)
+
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
