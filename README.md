@@ -15,7 +15,7 @@
 
 <br />
 
-- 📧 Email Contact: [APersianGeek@Gmail.com](APersianGeek@Gmail.com)
+- 📧 [APersianGeek@Gmail.com](APersianGeek@Gmail.com)
 
 <br />
   
