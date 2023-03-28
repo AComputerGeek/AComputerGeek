@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AComputerGeek&label=Profile%20views&color=0e75b6&style=flat" alt="AComputerGeek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/AComputerGeek/github-profile-trophy" alt="AComputerGeek" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AComputerGeek&theme=chalk" alt="AComputerGeek" /></a> </p>
 
 <br />
 
