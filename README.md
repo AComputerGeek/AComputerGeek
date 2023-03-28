@@ -6,12 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AComputerGeek" alt="AComputerGeek" /></a> </p>
 
 <br />
-- 📧 Email Contact: [APersianGeek@Gmail.com](APersianGeek@Gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/acomputergeek/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AComputerGeek" height="30" width="40" /></a>
 </p>
+
+- 📧 Email Contact: [APersianGeek@Gmail.com](APersianGeek@Gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
