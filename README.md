@@ -8,6 +8,16 @@
 
 <br />
 
+<hr><br />
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AComputerGeek&show_icons=true&locale=en&layout=compact" alt="AComputerGeek" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AComputerGeek&show_icons=true&locale=en" alt="AComputerGeek" /></p>
+
+<br />
+
+<hr><br />
+
 <h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/acomputergeek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AComputerGeek" height="30" width="40" /></a>
@@ -16,11 +26,4 @@
 <br />
 
 - 📧: [APersianGeek@Gmail.com](APersianGeek@Gmail.com)
-
-<hr><br />
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AComputerGeek&show_icons=true&locale=en&layout=compact" alt="AComputerGeek" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AComputerGeek&show_icons=true&locale=en" alt="AComputerGeek" /></p>
-
-<br />
+- 
